@@ -1,0 +1,120 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns:fb="http://ogp.me/ns/fb#">
+
+<HEAD>
+	<TITLE>Page Not Found - DESIRE Hair, Nails & Beauty Salon</TITLE>
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<META HTTP-EQUIV="Content-Language" CONTENT="en-GB">
+
+	<link rel="icon" href="favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+	<LINK HREF="style.css" TYPE="text/css" REL="stylesheet">
+
+	<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+<BODY
+	onLoad="MM_preloadImages('images/m1_1.jpg','images/m2_1.jpg','images/m3_1.jpg','images/m4_1.jpg','images/m5_1.jpg')">
+	<table style="width:100%">
+		<tr>
+			<td style="height:126px; background:url(images/menu_bg.jpg) repeat-x">
+				<table style="width:766px" align="center">
+					<tr>
+						<td style="height:126px">
+							<a href="index.html" onMouseOut="MM_swapImgRestore()"
+								onMouseOver="MM_swapImage('Image1','','images/m1_1.jpg',1)"><img src="images/m1.jpg"
+									alt=" " name="Image1" width="133" height="126" border="0"></a><a href="about.html"
+								onMouseOut="MM_swapImgRestore()"
+								onMouseOver="MM_swapImage('Image2','','images/m2_1.jpg',1)"><img src="images/m2.jpg"
+									alt=" " name="Image2" width="108" height="126" border="0"></a><a
+								href="services.html" onMouseOut="MM_swapImgRestore()"
+								onMouseOver="MM_swapImage('Image3','','images/m3_1.jpg',1)"><img src="images/m3.jpg"
+									alt=" " name="Image3" width="122" height="126" border="0"></a><a href="booking.html"
+								onMouseOut="MM_swapImgRestore()"
+								onMouseOver="MM_swapImage('Image4','','images/m4_1.jpg',1)"><img src="images/m4.jpg"
+									alt=" " name="Image4" width="132" height="126" border="0"></a><a href="contact.html"
+								onMouseOut="MM_swapImgRestore()"
+								onMouseOver="MM_swapImage('Image5','','images/m5_1.jpg',1)"><img src="images/m5.jpg"
+									alt=" " name="Image5" width="134" height="126" border="0"></a><img
+								src="images/m6.jpg" alt=" " name="Image6" width="136" height="126" border="0"><br>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:329px; background:url(images/header_bg4.jpg) repeat-x">
+				<table style="width:766;" align="center">
+					<tr>
+						<td style="height:329px; background:url(images/head4.jpg) no-repeat">
+							<a href="index.html"><img src="images/logo.jpg" alt="" border="0"
+									style="margin-left:448px"></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style="background:#780047 url(images/top.jpg) repeat-x top">
+				<table style="width:100%;">
+					<tr>
+						<td style="height:264px">
+							<table style="width:766px;" align="center">
+								<tr>
+									<td class="title">
+										Error 404 - Page Not Found
+									</td>
+								</tr>
+								<tr>
+									<td class="content">
+										Your Internet browser is able to connect to <a href="index.html">DESIRE</a>
+										website,but the webpage is not found.<br>
+										This error is sometimes caused because the webpage is temporarily unavailable or
+										because the webpage has been deleted.</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<table style="width:766px" align="center">
+					<tr>
+						<td style="height:50px;" class="footer">
+							Copyright 2013 &copy; Desire Beauty Salon. All rights reserved.
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</BODY>
+
+</HTML>
